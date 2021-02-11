@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7113522-bdea-4089-8d36-951800266c2b" name="Default Changelist" comment="Initial Beam-Solver Upload" />
+    <list default="true" id="c7113522-bdea-4089-8d36-951800266c2b" name="Default Changelist" comment="Repository GitHub Check">
+      <change beforePath="$PROJECT_DIR$/Beam.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beam.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +32,14 @@
       <option name="presentableId" value="Default" />
       <updated>1613074840227</updated>
     </task>
+    <task id="LOCAL-00001" summary="Repository GitHub Check">
+      <created>1613078460516</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613078460516</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -54,5 +64,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Repository GitHub Check" />
+    <option name="LAST_COMMIT_MESSAGE" value="Repository GitHub Check" />
   </component>
 </project>

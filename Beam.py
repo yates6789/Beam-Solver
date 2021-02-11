@@ -2,8 +2,6 @@
 # James Yates - 24/05/2020
 # This script implements the static beam equation to a cantilevered beam
 
-# QUICK TEST
-
 # Nomenclature ---------------------------------------------------------------------------------------------------------
 # h - Beam Height - [m]
 # b - Beam Width - [m]
